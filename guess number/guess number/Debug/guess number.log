@@ -1,0 +1,3 @@
+﻿  guess number.cpp
+D:\Visual Studio\Projects\GN\guess number\guess number\guess number.cpp(35,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  guess number.vcxproj -> D:\Visual Studio\Projects\GN\guess number\Debug\guess number.exe
